@@ -84,3 +84,14 @@ Icon?
 # Файлы сетевых папок (если проект лежит на внешнем диске или сетевой папке)
 .Spotlight-V100
 .Trashes
+
+
+AGENTS.md
+CLAUDE.md
+PROJECT_CONTEXT.md
+.mcp/
+.codex/
+.cursor/
+.claude/
+*Mcp*
+*mcp*
